@@ -17,21 +17,17 @@ update and save the post according to a category.Comment controller will provide
 to contain the most number of APIs.This is going to provide the APIs for getting a post by category,searching a post by title,fetching and saving the image
 of a particular post.In addition to this it will help to update,delete and fetch the list of posts according to a particular id.User controller will be helpful
 in providing the APIs which will update,delete and fetch a list of users collectively and acoording to id as well.Overall this backend solution
-has used the concept of input validation on database,global exceptional handling,role based authentication,hibernate mappings,JWT authentication,pagination,filteration and sorting.
+has used the concept of input validation on database,global exceptional handling,role based authentication,Stream API,hibernate mappings,JWT authentication,pagination,filteration and sorting.
 </h4>
 
 
 <h2 align="center">TECH STACK USED</h2>
 <h4 align="center">
-HTML • CSS • JavaScript • TypeScript • Bootstrap • Angular • Spring Boot • MySQL
+Java • Spring Boot • MySQL • Swagger
 </h4>
-<h2 align="center">CLIENT-SERVER ARCHITECTURE USED IN THE PROJECT</h2>
+<h2 align="center">LAYERED ARCHITECTURE USED IN THE PROJECT</h2>
 <p align="center">
 <img src="https://i.ibb.co/ZLsGST0/Screenshot-2023-04-01-010831.jpg" alt="Untitled" border="0">
-</p>
-<h2 align="center">LIST OF FRONTEND FEATURES/MODULES</h2>
-<p align="center">
-<img src="https://i.ibb.co/VtLmJBW/Screenshot-2023-04-01-012725.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">LIST OF BACKEND FEATURES/MODULES</h2>
 <p align="center">
