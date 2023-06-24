@@ -35,36 +35,70 @@ Java • Spring Boot • MySQL • Swagger
 </p>
 <h2 align="center">SCREENSHOTS</h2>
 <h3>1. REGISTER NEW USER WITH INPUT VALIDATION</h3>
+
+<p align="center">
+• INPUT VALIDATION
+</p>
 <p align="center">
 <img src="https://i.ibb.co/rG37cjP/Register.jpg" alt="Picture2" border="0">
 </p>
-
+<p align="center">
+• SUCCESSFUL REGISTRATION 
+</p>
 <p align="center">
 <img src="https://i.ibb.co/820Vq7D/Register2.jpg" alt="Picture2" border="0">
 </p>
 <h3>2. LOGIN WITH EXCEPTION HANDLING AND GENERATING JWT TOKEN</h3>
+
+<p align="center">
+• EXCEPTION HANDLING
+</p>
 <p align="center">
 <img src="https://i.ibb.co/DQPMYCW/login1.jpg" alt="Picture2" border="0">
 </p>
-
+<p align="center">
+• SUCCESSFUL LOGIN
+</p>
 <p align="center">
 <img src="https://i.ibb.co/Jdgq0tt/login2.jpg" alt="Picture6" border="0">
 </p>
-<h3>3. ADD,UPDATE AND DELETE CATEGORIES WITH INPUT VALIDATION ADN EXCEPTION HANDLING</h3>
+<h3>3. ADD,UPDATE AND DELETE CATEGORIES WITH INPUT VALIDATION AND EXCEPTION HANDLING</h3>
+
+<p align="center">
+• INPUT VALIDATION
+</p>
 <p align="center">
 <img src="https://i.ibb.co/5MHBQCD/Category1.jpg" alt="Picture8" border="0">
 </p>
-
+<p align="center">
+• ADDING CATEGORIES
+</p>
 <p align="center">
 <img src="https://i.ibb.co/BPtmVTb/Category2.jpg" alt="Picture8" border="0">
 </p>
-<h3>4. FILTER SERVERS WITH SERVER UP AND DOWN STATUS</h3>
 <p align="center">
-<img src="https://i.ibb.co/kmHmDgg/filter-server-up.jpg" alt="Picture5" border="0">
+• UPDATING CATEGORIES BY ID
 </p>
-
 <p align="center">
-<img src="https://i.ibb.co/7rsSVCR/server-down.jpg" alt="Picture5" border="0">
+<img src="https://i.ibb.co/MhqxZKw/Category3.jpg" alt="Picture5" border="0">
+</p>
+<p align="center">
+• GETTING CATEGORIES BY ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/W2gnbRr/Category4.jpg" alt="Picture5" border="0">
+</p>
+<p align="center">
+• GETTING LIST OF CATEGORIES
+</p>
+<p align="center">
+<img src="https://i.ibb.co/mRBkHzT/Category5.jpg" alt="Category5" alt="Picture5" border="0">
+</p>
+<p align="center">
+• DELETING CATEGORIES BY ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/4gcd7vT/Category6.jpg" alt="Picture5" border="0">
 </p>
 <h3>5. PRINTING REPORT</h3>
 <p align="center">
