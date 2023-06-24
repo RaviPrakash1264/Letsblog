@@ -170,6 +170,39 @@ Java • Spring Boot • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/Qk6S8dR/sorting2.jpg" border="0">
 </p>
+<h3>6. SEARCHING</h3>
+
+<p align="center">
+<img src="https://i.ibb.co/Jq6Zy2G/search1.jpg" border="0">
+</p>
+<h3>7. ADDING AND FETCHING IMAGE</h3>
+
+<p align="center">
+• ADDING IMAGE BY POST ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/ZWXXVdd/image1.jpg" border="0">
+</p>
+<p align="center">
+• FETCHING IMAGE BY IMAGE NAME
+</p>
+<p align="center">
+<img src="https://i.ibb.co/yQ30LgQ/image2.jpg" border="0">
+</p>
+<h3>8. ADD and DELETE COMMENTS</h3>
+
+<p align="center">
+• ADDING COMMENTS BY POST ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/4KMnMDG/comment1.jpg" border="0">
+</p>
+<p align="center">
+• DELETING COMMENTS BY COMMENT ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/bPx2QC0/comment2.jpg" border="0">
+</p>
 <h3>6. DELETE SERVERS</h3>
 <p align="center">
 <img src="https://i.ibb.co/thb7qrx/deleting-servers.jpg" alt="Picture6" border="0">
