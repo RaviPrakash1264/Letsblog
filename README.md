@@ -34,21 +34,29 @@ Java • Spring Boot • MySQL • Swagger
 <img src="https://i.ibb.co/Vphjwc1/Screenshot-2023-04-01-014641.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">SCREENSHOTS</h2>
-<h3>1. LANDING PAGE</h3>
+<h3>1. REGISTER NEW USER WITH INPUT VALIDATION</h3>
 <p align="center">
-<img src="https://i.ibb.co/svd1Mk6/list-of-servers.jpg" alt="Picture2" border="0">
-</p>
-<h3>2. ADD SERVERS WITH FORM VALIDATION(ADD BUTTON NOT ACTIVE UNTILL ALL DETAILS GOT FILLED)</h3>
-<p align="center">
-<img src="https://i.ibb.co/4fygH7p/form-validation.jpg" alt="Picture2" border="0">
+<img src="https://i.ibb.co/rG37cjP/Register.jpg" alt="Picture2" border="0">
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/KWf3H56/adding-server.jpg" alt="Picture6" border="0">
+<img src="https://i.ibb.co/820Vq7D/Register2.jpg" alt="Picture2" border="0">
 </p>
-<h3>3. PING SERVERS</h3>
+<h3>2. LOGIN WITH EXCEPTION HANDLING AND GENERATING JWT TOKEN</h3>
 <p align="center">
-<img src="https://i.ibb.co/s576rx9/ping-server.jpg" alt="Picture8" border="0">
+<img src="https://i.ibb.co/DQPMYCW/login1.jpg" alt="Picture2" border="0">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/Jdgq0tt/login2.jpg" alt="Picture6" border="0">
+</p>
+<h3>3. ADD,UPDATE AND DELETE CATEGORIES WITH INPUT VALIDATION ADN EXCEPTION HANDLING</h3>
+<p align="center">
+<img src="https://i.ibb.co/5MHBQCD/Category1.jpg" alt="Picture8" border="0">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/BPtmVTb/Category2.jpg" alt="Picture8" border="0">
 </p>
 <h3>4. FILTER SERVERS WITH SERVER UP AND DOWN STATUS</h3>
 <p align="center">
