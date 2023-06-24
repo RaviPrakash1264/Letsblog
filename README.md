@@ -62,7 +62,7 @@ Java • Spring Boot • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/Jdgq0tt/login2.jpg" alt="Picture6" border="0">
 </p>
-<h3>3. ADD,UPDATE AND DELETE CATEGORIES WITH INPUT VALIDATION AND EXCEPTION HANDLING</h3>
+<h3>3. ADD,UPDATE,FETCH AND DELETE CATEGORIES WITH INPUT VALIDATION AND EXCEPTION HANDLING</h3>
 
 <p align="center">
 • INPUT VALIDATION
@@ -100,9 +100,75 @@ Java • Spring Boot • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/4gcd7vT/Category6.jpg" alt="Picture5" border="0">
 </p>
-<h3>5. PRINTING REPORT</h3>
+<h3>4. ADD,UPDATE,FETCH AND DELETE POSTS WITH CATEGORY AND USER ID</h3>
+
 <p align="center">
-<img src="https://i.ibb.co/RN95T0p/printing-report.jpg" border="0">
+• ADDING POST BY CATEGORY AND USER ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/g9H2f0k/post1.jpg" border="0">
+</p>
+<p align="center">
+• GETTING POSTS BY USER ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/19B43QF/post2.jpg" border="0">
+</p>
+<p align="center">
+• GETTING POSTS BY CATEGORY ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/Xx0qb8s/post3.jpg" border="0">
+</p>
+<p align="center">
+• GETTING LIST OF POSTS
+</p>
+<p align="center">
+<img src="https://i.ibb.co/yVhcQHy/post4.jpg" border="0">
+</p>
+<p align="center">
+• GETTING POST BY ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/stnjy0p/post5.jpg" border="0">
+</p>
+<p align="center">
+• UPDATING POST BY ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/VDrW4hV/post6.jpg" border="0">
+</p>
+<p align="center">
+• DELETING POST BY ID
+</p>
+<p align="center">
+<img src="https://i.ibb.co/LSBnbK1/post7.jpg" border="0">
+</p>
+<h3>5. PAGINATION</h3>
+
+<p align="center">
+• GETTING POST BY PAGE NUMBER AND PAGE SIZE
+</p>
+<p align="center">
+<img src="https://i.ibb.co/gPbySLF/pagination1.jpg" border="0">
+</p>
+
+<p align="center">
+<img src="https://i.ibb.co/1fB1WfL/pagination2.jpg" border="0">
+</p>
+<h3>6. SORTING</h3>
+
+<p align="center">
+• SORTING POST BY POST ID AND IN ASCENDING ORDER
+</p>
+<p align="center">
+<img src="https://i.ibb.co/MctPftz/sorting1.jpg" border="0">
+</p>
+<p align="center">
+• SORTING POST BY POST TITLE AND IN DESCENDING ORDER
+</p>
+<p align="center">
+<img src="https://i.ibb.co/Qk6S8dR/sorting2.jpg" border="0">
 </p>
 <h3>6. DELETE SERVERS</h3>
 <p align="center">
