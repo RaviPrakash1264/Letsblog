@@ -29,6 +29,10 @@ Java • Spring Boot • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/ZLsGST0/Screenshot-2023-04-01-010831.jpg" alt="Untitled" border="0">
 </p>
+<h2 align="center">ER Diagram</h2>
+<p align="center">
+<img src="https://i.ibb.co/4TNyTWj/ER-Diagram.jpg" alt="Untitled" border="0">
+</p>
 <h2 align="center">LIST OF BACKEND FEATURES/MODULES</h2>
 <p align="center">
 <img src="https://i.ibb.co/Vphjwc1/Screenshot-2023-04-01-014641.jpg" alt="Untitled" border="0">
@@ -217,32 +221,36 @@ Java • Spring Boot • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/QfDXL7J/role-based2.jpg" border="0">
 </p>
-<h3>6. DELETE SERVERS</h3>
+<h3>10. APIS DOCUMENTATION USING SWAGGER</h3>
+
 <p align="center">
-<img src="https://i.ibb.co/thb7qrx/deleting-servers.jpg" alt="Picture6" border="0">
+<img src="https://i.ibb.co/R9BPmC4/swagger1.jpg" border="0">
+</p>
+<p align="center">
+<img src="https://i.ibb.co/bvPSQPd/swagger2.jpg" border="0">
 </p>
 
 <h2 align="center">REFERENCES</h2>
 
 <ul>
 <li>
-ANGULAR CLI DOCUMENTATION
-https://angular.io/cli
-</li>
-<li>
 SPRING BOOT DOCUMENTATION
 https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
 </li>
+<li>
+SWAGGER DOCUMENTATION
+https://swagger.io/docs/
+</li>
  <li>
-ANGULAR NOTIFIER
-https://www.npmjs.com/package/angular-notifier
+HIBERNATE DOCUMENTATION
+https://hibernate.org/orm/documentation/6.2/
 </li>
 <li>
 STACKOVERFLOW FOR FIXING BUGS
 https://stackoverflow.com/
 </li>
 <li>
-CROSS-ORIGIN RESOURCE SHARING(CORS)
-https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+JWT DOCUMENTATION
+https://jwt.io/introduction
 </li>
 </ul>
