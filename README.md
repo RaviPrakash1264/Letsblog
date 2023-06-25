@@ -203,6 +203,20 @@ Java • Spring Boot • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/bPx2QC0/comment2.jpg" border="0">
 </p>
+<h3>9. ROLE-BASED AUTHORIZATION</h3>
+
+<p align="center">
+• DELETING USING NORMAL USER
+</p>
+<p align="center">
+<img src="https://i.ibb.co/8xn9WJT/role-based1.jpg" border="0">
+</p>
+<p align="center">
+• DELETING USING ADMIN USER
+</p>
+<p align="center">
+<img src="https://i.ibb.co/QfDXL7J/role-based2.jpg" border="0">
+</p>
 <h3>6. DELETE SERVERS</h3>
 <p align="center">
 <img src="https://i.ibb.co/thb7qrx/deleting-servers.jpg" alt="Picture6" border="0">
