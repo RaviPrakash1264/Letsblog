@@ -16,8 +16,9 @@ for the APIs involved in exception handling.In category controller user will be 
 update and save the post according to a category.Comment controller will provide the APIs for delete and create comments.Post controller is going 
 to contain the most number of APIs.This is going to provide the APIs for getting a post by category,searching a post by title,fetching and saving the image
 of a particular post.In addition to this it will help to update,delete and fetch the list of posts according to a particular id.User controller will be helpful
-in providing the APIs which will update,delete and fetch a list of users collectively and according to id as well.Overall this backend solution
-has used the concept of input validation on database,global exceptional handling,role based authorization,Stream API,advanced hibernate mappings,JWT authentication,pagination,searching and sorting.
+in providing the APIs which will update,delete and fetch a list of users collectively and according to id as well.Role specific access has been
+given to delete the category of a post.Overall this backend solution has used the concept of input validation on database,global
+exception handling,role based authorization,Stream API,advanced hibernate mappings,JWT authentication,pagination,searching and sorting.
 </h4>
 
 
@@ -207,7 +208,7 @@ Java • Spring Boot • Hibernate • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/bPx2QC0/comment2.jpg" border="0">
 </p>
-<h3>10. ROLE-BASED AUTHORIZATION</h3>
+<h3>10. ROLE BASED AUTHORIZATION</h3>
 
 <p align="center">
 • DELETING USING NORMAL USER
