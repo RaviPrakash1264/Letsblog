@@ -174,12 +174,12 @@ Java • Spring Boot • Hibernate • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/Qk6S8dR/sorting2.jpg" border="0">
 </p>
-<h3>6. SEARCHING</h3>
+<h3>7. SEARCHING</h3>
 
 <p align="center">
 <img src="https://i.ibb.co/Jq6Zy2G/search1.jpg" border="0">
 </p>
-<h3>7. ADDING AND FETCHING IMAGE</h3>
+<h3>8. ADDING AND FETCHING IMAGE</h3>
 
 <p align="center">
 • ADDING IMAGE BY POST ID
@@ -193,7 +193,7 @@ Java • Spring Boot • Hibernate • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/yQ30LgQ/image2.jpg" border="0">
 </p>
-<h3>8. ADD and DELETE COMMENTS</h3>
+<h3>9. ADD and DELETE COMMENTS</h3>
 
 <p align="center">
 • ADDING COMMENTS BY POST ID
@@ -207,7 +207,7 @@ Java • Spring Boot • Hibernate • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/bPx2QC0/comment2.jpg" border="0">
 </p>
-<h3>9. ROLE-BASED AUTHORIZATION</h3>
+<h3>10. ROLE-BASED AUTHORIZATION</h3>
 
 <p align="center">
 • DELETING USING NORMAL USER
@@ -221,7 +221,7 @@ Java • Spring Boot • Hibernate • MySQL • Swagger
 <p align="center">
 <img src="https://i.ibb.co/QfDXL7J/role-based2.jpg" border="0">
 </p>
-<h3>10. APIS DOCUMENTATION USING SWAGGER</h3>
+<h3>11. APIS DOCUMENTATION USING SWAGGER</h3>
 
 <p align="center">
 <img src="https://i.ibb.co/R9BPmC4/swagger1.jpg" border="0">
