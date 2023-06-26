@@ -27,7 +27,7 @@ Java • Spring Boot • MySQL • Swagger
 </h4>
 <h2 align="center">LAYERED ARCHITECTURE USED IN THE PROJECT</h2>
 <p align="center">
-<img src="https://i.ibb.co/ZLsGST0/Screenshot-2023-04-01-010831.jpg" alt="Untitled" border="0">
+<img src="https://i.ibb.co/fNLwL2y/Layered-Architecture.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">ER Diagram</h2>
 <p align="center">
@@ -35,7 +35,7 @@ Java • Spring Boot • MySQL • Swagger
 </p>
 <h2 align="center">LIST OF BACKEND FEATURES/MODULES</h2>
 <p align="center">
-<img src="https://i.ibb.co/Vphjwc1/Screenshot-2023-04-01-014641.jpg" alt="Untitled" border="0">
+<img src="https://i.ibb.co/zb5FNVP/Backend-modules.jpg" alt="Untitled" border="0">
 </p>
 <h2 align="center">SCREENSHOTS</h2>
 <h3>1. REGISTER NEW USER WITH INPUT VALIDATION</h3>
