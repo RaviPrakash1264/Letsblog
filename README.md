@@ -1,8 +1,8 @@
 <h1 align="center" style="">Let's Blog</h1>
 <h3 align="center" style="">Contributors: <a href="https://github.com/RaviPrakash1264">@RaviPrakash1264</a></h3>
-<h4 align="center">A complete backend solution for a blogging application which provides numerous functionalities to the frontend teams.It help users to create,delete,update,sort and list the posts according to a
-particular category using pagination.Users will be able to add,delete and update comments on a post as well.It consists of different user input validation and exception handling along with role based authentication.JWT based
-athentication has been used to secure the APIs.Along with the above features this backend solution is going to provide the detailed documentation to the frontend teams with the
+<h4 align="center">A complete backend solution for a blogging application which provides numerous functionalities to the frontend teams.It helps users to create,delete,update,sort,search and
+categorize a post according to a particular category.Posts are divided into different pages using pagination.Users will be able to add,delete and update comments on a post as well.It consists of different user input validation and exception handling along with role based authorization.JWT based
+authentication has been used to secure the APIs.Along with the above features this backend solution is going to provide the detailed documentation to the frontend teams with the
 help of swagger ui so that they can easily consume the APIs.  
 </h4>
 <p align="center">
@@ -11,19 +11,19 @@ help of swagger ui so that they can easily consume the APIs.
 <h4 align="center">
 Frontend team will be provided with interface by swagger which contains six controllers i.e. auth,error,category,comment,post and user.
 APIs in these controllers are secured by JWT authentication.User first have to enter the token before consuming the APIs.Auth controller
-is going to contain the APIs for getting the info of particular user,registering the user and creation of token.Error controller is resposible
+is going to contain the APIs for getting the info of particular user,registering the user and creation of token.Error controller is responsible
 for the APIs involved in exception handling.In category controller user will be able to consume the APIs which help to fetch,delete,
 update and save the post according to a category.Comment controller will provide the APIs for delete and create comments.Post controller is going 
 to contain the most number of APIs.This is going to provide the APIs for getting a post by category,searching a post by title,fetching and saving the image
 of a particular post.In addition to this it will help to update,delete and fetch the list of posts according to a particular id.User controller will be helpful
-in providing the APIs which will update,delete and fetch a list of users collectively and acoording to id as well.Overall this backend solution
-has used the concept of input validation on database,global exceptional handling,role based authentication,Stream API,hibernate mappings,JWT authentication,pagination,filteration and sorting.
+in providing the APIs which will update,delete and fetch a list of users collectively and according to id as well.Overall this backend solution
+has used the concept of input validation on database,global exceptional handling,role based authorization,Stream API,advanced hibernate mappings,JWT authentication,pagination,searching and sorting.
 </h4>
 
 
 <h2 align="center">TECH STACK USED</h2>
 <h4 align="center">
-Java • Spring Boot • MySQL • Swagger
+Java • Spring Boot • Hibernate • MySQL • Swagger
 </h4>
 <h2 align="center">LAYERED ARCHITECTURE USED IN THE PROJECT</h2>
 <p align="center">
